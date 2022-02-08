@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tohja\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tohja\\.nuget\\packages"
+    ]
+  }
+}

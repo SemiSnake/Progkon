@@ -1,0 +1,14 @@
+D:\Onedrive\OneDrive - Viken fylkeskommune\Programmering\Visual studio ting\Test2\bin\Debug\netcoreapp3.1\Test2.exe
+D:\Onedrive\OneDrive - Viken fylkeskommune\Programmering\Visual studio ting\Test2\bin\Debug\netcoreapp3.1\Test2.deps.json
+D:\Onedrive\OneDrive - Viken fylkeskommune\Programmering\Visual studio ting\Test2\bin\Debug\netcoreapp3.1\Test2.runtimeconfig.json
+D:\Onedrive\OneDrive - Viken fylkeskommune\Programmering\Visual studio ting\Test2\bin\Debug\netcoreapp3.1\Test2.runtimeconfig.dev.json
+D:\Onedrive\OneDrive - Viken fylkeskommune\Programmering\Visual studio ting\Test2\bin\Debug\netcoreapp3.1\Test2.dll
+D:\Onedrive\OneDrive - Viken fylkeskommune\Programmering\Visual studio ting\Test2\bin\Debug\netcoreapp3.1\Test2.pdb
+D:\Onedrive\OneDrive - Viken fylkeskommune\Programmering\Visual studio ting\Test2\obj\Debug\netcoreapp3.1\Test2.csproj.AssemblyReference.cache
+D:\Onedrive\OneDrive - Viken fylkeskommune\Programmering\Visual studio ting\Test2\obj\Debug\netcoreapp3.1\Test2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onedrive\OneDrive - Viken fylkeskommune\Programmering\Visual studio ting\Test2\obj\Debug\netcoreapp3.1\Test2.AssemblyInfoInputs.cache
+D:\Onedrive\OneDrive - Viken fylkeskommune\Programmering\Visual studio ting\Test2\obj\Debug\netcoreapp3.1\Test2.AssemblyInfo.cs
+D:\Onedrive\OneDrive - Viken fylkeskommune\Programmering\Visual studio ting\Test2\obj\Debug\netcoreapp3.1\Test2.csproj.CoreCompileInputs.cache
+D:\Onedrive\OneDrive - Viken fylkeskommune\Programmering\Visual studio ting\Test2\obj\Debug\netcoreapp3.1\Test2.dll
+D:\Onedrive\OneDrive - Viken fylkeskommune\Programmering\Visual studio ting\Test2\obj\Debug\netcoreapp3.1\Test2.pdb
+D:\Onedrive\OneDrive - Viken fylkeskommune\Programmering\Visual studio ting\Test2\obj\Debug\netcoreapp3.1\Test2.genruntimeconfig.cache

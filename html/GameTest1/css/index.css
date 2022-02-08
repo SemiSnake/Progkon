@@ -1,0 +1,195 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
+:root {
+	--white:#f1f1f1
+}
+
+body {
+  margin: 0;
+	background-color: grey;
+  background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+  font-family: 'Mountains of Christmas', cursive;
+  font-size: 200%;
+  color: white;
+  position: relative;
+  bottom: 75px;
+}
+
+h2 {
+	display: inline;
+	font-size: 200%;
+	color: white;
+	margin-left: 30px;
+	text-align: left;
+	position: relative;
+
+}
+
+
+@keyframes fadeIn{
+from {opacity: 0%;}
+to {opacity: 100%;}
+}
+
+p {
+	color: white;
+  text-align: top;
+	font-size: 125%;
+	position: relative;
+	user-select: none;
+}
+p3 {
+	color: white;
+	font-size: 350%;
+}
+p2 {
+	font-size: 480%;
+	text-align: left;
+	color: white;
+	text-shadow: 2px 2px black;
+	user-select: none;
+  position: relative;
+
+}
+
+p4 {
+	color: white;
+	font-size: 125%;
+}
+
+
+#menykonteiner {
+	background-color: black;
+		text-align: center;
+		border: 2px solid white;
+		width: 99.8%;
+		margin-bottom: 2%;
+}
+
+#menykonteiner li {
+	display: inline;
+	margin-right: 8%;
+	margin-left: 8%;
+
+}
+
+#menykonteiner a {
+	color: white;
+	font-size: 180%;
+	text-decoration: none;
+
+}
+
+#menykonteiner a:hover {
+	color:red;
+	font-size 100%;
+	text-decoration: none;
+}
+
+
+
+
+
+#menykonteiner1 {
+		background-color: rgba(0, 0, 0, 0.6);
+		border: 5px dashed white;
+		text-align: left;
+		height: 80px;
+    margin-bottom: 30px;
+
+}
+
+.overlay {
+	background-color: rgba(0, 0, 0, 0.5);
+	position: absolute;
+	width: 100%;
+	height: 154.6%;
+	z-index: 1;
+	display: none;
+}
+
+
+
+.content {
+	position: fixed;
+	width: 1350px;
+	height: 675px;
+	margin-left: -675px;
+	margin-top: -350px;
+	top:52%;
+	left:49.5%;
+	background-color: #ccc;
+	justify-content: center;
+	align-items: center;
+	display: none;
+	z-index: 2;
+	animation: floatDown 2s;
+}
+
+@keyframes floatDown{
+	from {top: 0%;}
+	to {top: 52%;}
+}
+
+.grid-container {
+  background-color: rgba(0, 0, 0, 0.9);
+  border: 5px solid black;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto;
+  padding: 20px;
+  margin-left: 2%;
+  margin-right: 2%;
+	position: relative;
+  margin-bottom: 30px;
+}
+
+.item1 {
+	background-color: white;
+	position: relative;
+	top: 300px;
+	left: 700px;
+  height: 150px;
+  width: 180px;
+	transition-duration: 0.4s;
+	grid-row-start: 1;
+	grid-column-start: 1;
+
+}
+
+.item1:hover {
+
+	transform: scale(1.1);
+	cursor: pointer;
+
+}
+
+.item2 {
+  border: 3px solid white;
+	position: absolute;
+  height: 80%;
+	margin-left: 1.5%;
+  width: 20%;
+	grid-row-start: 1;
+	grid-column: start: 2;
+	cursor: pointer;
+
+}
+.console {
+	background-color: rgb(0,0,0, 0.7);
+	width: 100%;
+	height: 20%;
+	text-align: left;
+	position: absolute;
+	bottom: 0%;
+}
+
+
+
+@keyframes fadeIn{
+from {opacity: 0%;}
+to {opacity: 100%;}
+}
